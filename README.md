@@ -1,7 +1,7 @@
 ## Hi there 👋
  # I'm Vladimir Jerez, Web Developer
 #### ABOUT 
-    ### - Skills
+   ### - Skills
     - PHP
     - HTML
     - CSS3
