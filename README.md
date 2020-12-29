@@ -1,14 +1,7 @@
 ## Hi there 👋
  # I'm Vladimir Jerez, Web Developer
 #### ABOUT 
-   ### - Skills
-    - PHP
-    - HTML
-    - CSS3
-    - Javascript
-    - Git
-    - Linux
-    - Laravel 7
+   ### - Skills and Technologies
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60"/> 
@@ -25,7 +18,10 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
  <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>  -->
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/> 
  <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> -->
+ <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="60" height="60"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="60" height="60"/> 
 </p>
 ### - 🔭 I’m currently working on ...
  - Laravel project as Backend
