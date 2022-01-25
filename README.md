@@ -1,6 +1,18 @@
 ## Hi there 👋
  # I'm Vladimir Jerez, Web Developer
 #### ABOUT 
+### - 🔭 I’m currently working on ...
+ - Laravel API (Backend)
+ - 
+### - 🌱 I’m currently learning ...
+   * NodeJS 
+   * Express
+### - 👯 I’m looking to collaborate on ...
+
+<!-- ### - 🤔 I’m looking for help with ...
+### - 💬 Ask me about ... -->
+### - 📫 How to reach me: vlad.jerez@gmail.com
+
    ### - Skills and Technologies
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
@@ -18,17 +30,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
  <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/>  -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="trello" width="60" height="60"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="60" height="60"/> 
 </p>
-### - 🔭 I’m currently working on ...
- - Laravel project as Backend
-### - 🌱 I’m currently learning ...
-   * NodeJS 
-   * Python
-### - 👯 I’m looking to collaborate on ...
-<!-- ### - 🤔 I’m looking for help with ...
-### - 💬 Ask me about ... -->
-### - 📫 How to reach me: vlad.jerez@gmail.com
+
