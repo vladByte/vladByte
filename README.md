@@ -3,7 +3,7 @@
 #### ABOUT 
    ### - Skills and Technologies
 <p align="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="60"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
